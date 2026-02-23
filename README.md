@@ -41,6 +41,12 @@ php expense-tracker.php summary --month <number>
 ## Data Storage
 All expenses are stored in `expenses.json` in the project directory.
 
+## Future Features
+
+- Add expense categories and allow users to filter expenses by category.
+- Allow users to set a budget for each month and show a warning when the user exceeds the budget.
+- Allow users to export expenses to a CSV file.
+
 ## Project Roadmap
 For more ideas and features, see the [roadmap.sh Expense Tracker Project](https://roadmap.sh/projects/expense-tracker).
 
